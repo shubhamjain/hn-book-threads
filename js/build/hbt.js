@@ -88,7 +88,7 @@
 	  });
 	}
 
-	fetch('/data/threads.json').then(function(data){
+	fetch('./data/threads.json').then(function(data){
 	  return data.json();
 	}).then(function(threads){
 
