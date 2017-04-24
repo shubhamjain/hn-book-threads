@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+#introduction {
+  font-family: "Raleway", Helvetica;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.hbt-table {
+  border: 1px dotted #c1c1c1;
+  margin-top: 40px;
+}
